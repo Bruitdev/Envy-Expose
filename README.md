@@ -4,7 +4,7 @@ Exposing Envy
 
 Backend
 
-Ennvy SKids the reload backend which you can see right here: https://github.com/Bruitdev/Envy-Leak-images/blob/main/Screenshot%202024-11-20%20181930.png?raw=true
+Ennvy SKids the reload backend which you can see right here: [https://github.com/Bruitdev/Envy-Leak-images/blob/main/Screenshot%202024-11-20%20181930.png?raw=true](https://github.com/Bruitdev/Envy-Expose/blob/main/Screenshot%202024-11-20%20181930.png)
 
 **Launcher**
 
