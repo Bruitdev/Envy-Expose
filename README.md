@@ -6,11 +6,11 @@ Backend
 
 Ennvy SKids the reload backend which you can see right here: https://github.com/Bruitdev/Envy-Leak-images/blob/main/Screenshot%202024-11-20%20181930.png?raw=true
 
-Launcher
+**Launcher**
 
 Envy also skids his Launcher by using the Eon V1 Launcher just with a modded UI!
 
-GameServer
+**GameServer**
 
 Envy skids the Reboot 3.0 GameServer which doesen't even has working MCP..
 
