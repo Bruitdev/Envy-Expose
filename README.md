@@ -16,8 +16,8 @@ Envy skids the Reboot 3.0 GameServer which doesen't even has working MCP..
 
 # Hacking other peoples Tik Tok accounts..
 
-The Arctic account got hacked by envy and he won't even give it back.. The proof is here: https://github.com/Bruitdev/Envy-Leak-images/blob/main/Screenshot%202024-11-20%20182403.png
-
+The Arctic account got hacked by envy and he won't even give it back.. The proof is here: [https://github.com/Bruitdev/Envy-Leak-images/blob/main/Screenshot%202024-11-20%20182403.png
+](https://github.com/Bruitdev/Envy-Expose/blob/main/Screenshot%202024-11-20%20182403.png)
 # Nuking Servers
 
 Envy also nuked many servers including the Server from AltyzFN
