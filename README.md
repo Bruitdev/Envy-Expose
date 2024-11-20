@@ -30,7 +30,7 @@ He tells everyone that he bought the FMod brand by faking the DMs with an alt ac
 
 Sadly i don't have proof of the Chat cuz the messages are deleted.
 
-#A message
+# A message
 
 Please do not ever trust Envy, he's wierd, got a bad rep, is skidding, can't really make a project, says that ppl can't release a good Project and calls a Project thats still in Development.
 
